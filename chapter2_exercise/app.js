@@ -1,0 +1,10 @@
+var num1 = 2;
+var num2 = 3;
+var calc1 = num1 + num2;
+var calc2 = num1 - num2;
+var calc3 = num1 * num2;
+var calc4 = num1 / num2;
+alert(num1 + " + " + num2 + " = " + calc1);
+alert(num1 + " - " + num2 + " = " + calc2);
+alert(num1 + " * " + num2 + " = " + calc3);
+alert(num1 + " / " + num2 + " = " + calc4);
